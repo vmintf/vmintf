@@ -4,7 +4,7 @@
 #### Let's me introduce my self.
 #### I'm a developer. I'm currently building a discord bot and the code I usually write is python.
 #### Please give me a discord for all kinds of inquiries. I don't accept the rest. DM: crossbow#0001
-
+[![Discord](https://discord.c99.nl/widget/theme-3/825614829901316107.png)]()
 
 ## Korean
 #### 안녕하세요. 
