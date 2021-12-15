@@ -23,6 +23,6 @@
 <a href="https://discord.gg/rdpARJfP45"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center>디스코드(Discord)</img></a>
 
 ### 파트너 링크(affiliation links)
-<a href="https://discord.com/invite/ZqDRUjy4NQ"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center></img>Team. cloud 소속(Team. cloud affilation)</a>
+<a href="https://discord.com/invite/ZqDRUjy4NQ"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center></img>Team. cloud(Team. cloud)</a> |
+<a href="https://www.youtube.com/channel/UCXSj27HQoJockNSCzM6WKVg"><img src="https://yt3.ggpht.com/Oea8wtVdUJ8-3PxpCJF8gQZd6tAw-69QYJ_cDHFOBGZNx0xEaQi1syfl4labKTktp-lhXr-8GA=s88-c-k-c0x00ffffff-no-rj" width="30" align=center></img>PVJWSC(Youtube channel)</a>
 
-<a href="https://www.youtube.com/channel/UCXSj27HQoJockNSCzM6WKVg"><img src="https://yt3.ggpht.com/Oea8wtVdUJ8-3PxpCJF8gQZd6tAw-69QYJ_cDHFOBGZNx0xEaQi1syfl4labKTktp-lhXr-8GA=s88-c-k-c0x00ffffff-no-rj" width="30" align=center></img>팀 채널. PVJWSC(Team channel. PVJWSC)</a>
