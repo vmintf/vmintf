@@ -18,5 +18,6 @@
   [![vmintf's github stats](https://github-readme-stats.vercel.app/api?username=vmintf)](https://github.com/vmintf)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmintf)](https://github.com/anuraghazra/github-readme-stats)
-## 디스코드 서버(Discord server)
-[이걸 누르세요(Click here)](https://discord.gg/ws2rX7UGeW)
+
+## 링크(Links)
+<a href="https://discord.gg/rdpARJfP45"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center>디스코드(Discord)</img></a>
