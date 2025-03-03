@@ -118,6 +118,16 @@
 
 ###
 
+<h3 align="left">CI/CD</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
+</div>
+
+###
+
 <h2 align="left">Stat</h2>
 
 ###
