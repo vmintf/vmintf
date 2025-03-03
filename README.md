@@ -1,28 +1,134 @@
-## English
+<div align="center">
+  <img height="200" src="https://images-ext-1.discordapp.net/external/AIsdyUxsVHUVseL8mLaPqWCla2nOp2jAuUihJzh_HJI/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/383548998725664780/648c94e2b120f96ebade2b2c62f830bd.png?format=webp&quality=lossless"  />
+</div>
 
-#### Hi, there.
-#### Let's me introduce my self.
-#### I'm a developer. I'm currently building a discord bot and the code I usually write is python.
-#### Please give me a discord for all kinds of inquiries. I don't accept the rest. DM: crossbow#0001
-[![Discord](https://discord.c99.nl/widget/theme-3/825614829901316107.png)]()
+###
 
-## Korean
-#### 안녕하세요. 
-#### 저는 주로 디스코드 봇을 개발하는 minemous 입니다.
-#### 저가 주로 쓰는 코드는 파이썬이며 디스코드 봇은 자유롭게 개발하고 있습니다.
-#### 문의사항이 있다면 DM으로 주시면 감사하겠습니다. 
-#### 만약에 디스코드 서버를 연다 하여도 그쪽으론 잘 안받을태니 왠만하면 DM으로 주세요.(문의 사항도 아닌데 DM으로 헛짓하면 차단박아요~) DM: crossbow#0001
-[![Discord](https://discord.c99.nl/widget/theme-3/825614829901316107.png)]()
+<div align="center">
+  <a href="https://www.youtube.com/@%EB%AF%BC%EC%84%B1Skystarry" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
-## Github Stat(깃헙 스탯)
-  [![vmintf's github stats](https://github-readme-stats.vercel.app/api?username=vmintf)](https://github.com/vmintf)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmintf)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-## 링크(Links)
-<a href="https://discord.gg/rdpARJfP45"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center>디스코드(Discord)</img></a>
+<h1 align="left">👋 Hi, there</h1>
 
-### 파트너 링크(affiliation links)
-<a href="https://discord.com/invite/ZqDRUjy4NQ"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ypttW29q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/j3IISku.gif" width="30" align=center></img>Team. cloud(Team. cloud)</a> |
-<a href="https://www.youtube.com/channel/UCXSj27HQoJockNSCzM6WKVg"><img src="https://yt3.ggpht.com/Oea8wtVdUJ8-3PxpCJF8gQZd6tAw-69QYJ_cDHFOBGZNx0xEaQi1syfl4labKTktp-lhXr-8GA=s88-c-k-c0x00ffffff-no-rj" width="30" align=center></img>PVJWSC(Youtube channel)</a>
+###
 
+<p align="left">Hi there. I'm skystarry the Multi-Stack Developer.</p>
+
+###
+
+<p align="left">I'm working on my projects with language, Python(Proficient), Dart(Novice) and SDK Tensorflow(Intermediate), Flutter(Novice).</p>
+
+###
+
+<h3 align="left">My skill levels</h3>
+
+###
+
+<p align="left">Python: Proficient<br>Dart: Novice<br>Nodejs: Beginner<br>Rust: Beginner</p>
+
+###
+
+<p align="left">Tensorflow: Intermediate<br>Flutter: Novice</p>
+
+###
+
+<p align="left">Nextjs: Beginner</p>
+
+###
+
+<h2 align="left">🔧 Techs</h2>
+
+###
+
+<h3 align="left">Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<h3 align="left">SDKs</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<h3 align="left">SQLs</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+</div>
+
+###
+
+<h3 align="left">Environments</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
+
+###
+
+<h2 align="left">Stat</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmintf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vmintf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/vmintf/vmintf/output/snake.svg" alt="Snake animation" />
+
+###
