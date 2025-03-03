@@ -118,7 +118,7 @@
 
 ###
 
-<h3 align="left">CI/CD</h3>
+<h3 align="left">CI/CDs</h3>
 
 ###
 
