@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Python: Proficient<br>Dart: Novice<br>Nodejs: Beginner<br>Rust: Beginner<br>Zig: Intermediate</p>
+<p align="left">Python: Proficient<br>Dart: Novice<br>Nodejs: Beginner<br>Zig: Intermediate</p>
 
 ###
 
@@ -55,7 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=zig" height="40" alt="zig logo"  />
 </div>
