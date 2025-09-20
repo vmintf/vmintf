@@ -8,7 +8,7 @@
 
 Multi-Stack Developer from South Korea 🇰🇷
 
-- 🔭 Currently working with AI on **SimpleEnvs** library (Python & Zig)
+- ~~🔭 Currently working with AI on **SimpleEnvs** library (Python & Zig)~~**(Project Ended)**
 - 🌱 Learning **Machine Learning** and **Flutter**
 
 ## 🛠️ Tech Stack
